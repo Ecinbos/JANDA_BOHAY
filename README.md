@@ -14,5 +14,5 @@ git clone https://github.com/BOY-H4MZ4H/JANDA_BOHAY
 # RUN
 ```
 cd JANDA_BOHAY
-python2 bohay.py
+python bohay.py
 ```
