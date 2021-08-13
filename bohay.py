@@ -1,3 +1,4 @@
+#-*-coding:utf-8-*-
 # Encode By Hamzah Kirana
 # Mau Ngapain Hayoooo :)
 
